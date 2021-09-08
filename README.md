@@ -24,6 +24,6 @@ THEN the saved events persist
 
 # Link to Webpage
 
-![Deployed Wepage]()
+[Deployed Wepage](https://tmantena1.github.io/work-day-scheduler/)
 
-![Github](https://github.com/tmantena1/work-day-scheduler)
+[Github](https://github.com/tmantena1/work-day-scheduler)
